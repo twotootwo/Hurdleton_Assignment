@@ -1,0 +1,17 @@
+*{
+    background-color: bisque;
+}
+form{
+    width : 500px;
+    text-align: center;
+    color : red;
+}
+input{
+    background-color: gray;
+    width:200px;
+    font: 100px;
+}
+button{
+    background-color: aqua;
+    width:250px;
+}
